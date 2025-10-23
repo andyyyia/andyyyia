@@ -1,16 +1,56 @@
-## Hi there 👋
+# Robert Andrés Paredes Garzón
 
-<!--
-**andyyyia/andyyyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería de Software (4.º semestre) — Universidad Técnica de Ambato (UTA)**  
+Ambato, Ecuador
 
-Here are some ideas to get you started:
+Apasionado por construir soluciones end-to-end: desde el backend eficiente hasta el frontend usable. Me interesan la **inteligencia artificial**, la **arquitectura de datos** y el **desarrollo de aplicaciones web y móviles**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+`Java` · `Python` · `SQL` · `HTML/CSS` · `Git/GitHub`
+
+> Foco actual: patrones de diseño, buenas prácticas de datos y despliegues simples.
+
+---
+
+## 🚀 Proyectos destacados
+
+- **Carta de San Valentín** — mini-landing de práctica y estilizado  
+  👉 https://github.com/andyyyia/san_valentin
+
+- **APE4 – Estructura de Datos** — ejercicios y prácticas en Java  
+  👉 https://github.com/andyyyia/APE4_EstructuraDatos
+
+- **FISEI** — materiales y prácticas de “Manejo y Configuración del Software”  
+  👉 https://github.com/andyyyia/FISEI
+
+- **Sistema de Gestión de Seguros (Equipo Creativo Web)** — proyecto en equipo (en proceso / repo privado o en otra organización).  
+  👉 *Enlace público pendiente*
+
+> Más repos en: https://github.com/andyyyia?tab=repositories
+
+---
+
+## 🎯 Intereses
+- IA aplicada a productos
+- Arquitectura y modelado de datos
+- Desarrollo web (front/back)
+- Apps móviles
+
+---
+
+## 🌍 Idiomas
+- **Español**: nativo  
+- **Inglés**: B2
+
+---
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-paredes-b065b818b/) · **andresparedesg.ap@gmail.com**
+
+---
+
+## 📈 (Opcional) Métricas públicas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andyyyia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyyyia&layout=compact)
