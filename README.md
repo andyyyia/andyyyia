@@ -55,6 +55,6 @@ Apasionado por construir soluciones end-to-end: desde el backend eficiente hasta
 
 ---
 
-## 📈 (Opcional) Métricas públicas
+## 📈 Métricas públicas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andyyyia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyyyia&layout=compact)
