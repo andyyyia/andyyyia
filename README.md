@@ -1,6 +1,6 @@
 # Robert Andrés Paredes Garzón
 
-**Estudiante de Ingeniería de Software (4.º semestre) — Universidad Técnica de Ambato (UTA)**  
+**Estudiante de Ingeniería de Software — Universidad Técnica de Ambato (UTA)**  
 Ambato, Ecuador
 
 Apasionado por construir soluciones end-to-end: desde el backend eficiente hasta el frontend usable. Me interesan la **inteligencia artificial**, la **arquitectura de datos** y el **desarrollo de aplicaciones web y móviles**.
@@ -21,9 +21,6 @@ Apasionado por construir soluciones end-to-end: desde el backend eficiente hasta
 
 - **APE4 – Estructura de Datos** — ejercicios y prácticas en Java  
   👉 https://github.com/andyyyia/APE4_EstructuraDatos
-
-- **FISEI** — materiales y prácticas de “Manejo y Configuración del Software”  
-  👉 https://github.com/andyyyia/FISEI
 
 - **Sistema de Gestión de Seguros (Equipo Creativo Web)** — proyecto en equipo (en proceso / repo privado o en otra organización).  
   👉 *Enlace público pendiente*
